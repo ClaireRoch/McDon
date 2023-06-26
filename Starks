@@ -1,0 +1,2 @@
+def Filtering(lst):
+    return list(filter(None,lst))
